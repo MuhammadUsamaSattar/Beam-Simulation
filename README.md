@@ -1,4 +1,4 @@
-# Beam-Simulation
+# Beam-Simulation (Computational Structural Analysis)
 A python program that calculates and draws Shear Force Diagram and Bending Moment Diagram.
 
 Outputs of three sample cases are shown below:
